@@ -2,7 +2,6 @@
   "name": "amf",
   "version": "0.0.1",
   "description": "amf CLI",
-  "private": true,
   "bin": {
     "amf": "bin/amf"
   },
