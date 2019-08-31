@@ -1,25 +1,3 @@
-# amf CLI
+Assistente para criação de arquivos frequentmente utilizados de forma automatizada via linha de comando
 
-A CLI for amf.
-
-## Customizing your CLI
-
-Check out the documentation at https://github.com/infinitered/gluegun/tree/master/docs.
-
-## Publishing to NPM
-
-To package your CLI up for NPM, do this:
-
-```shell
-$ npm login
-$ npm whoami
-$ npm lint
-$ npm test
-(if typescript, run `npm run build` here)
-$ npm publish
-```
-
-# License
-
-MIT - see LICENSE
-
+https://www.npmjs.com/package/amf-cli
